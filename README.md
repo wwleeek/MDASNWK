@@ -18,3 +18,4 @@ Similarity calculation method
 This file is the main function of the method(MDASNWK)in 5-fold CV
 ### MDASNWKLOOCV
 This file is the main function of the method(MDASNWK)in LOOCV
+## NPU
