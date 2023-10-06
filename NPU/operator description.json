@@ -1,0 +1,35 @@
+[
+  {
+    "input_desc": [
+      {
+        "format": "ND",
+        "name": "x",
+        "shape": [
+          128,
+          1
+        ],
+        "type": "float16"
+      },
+      {
+        "format": "ND",
+        "name": "y",
+        "shape": [
+          128,
+          100
+        ],
+        "type": "float16"
+      }
+    ],
+    "op": "L2dv",
+    "output_desc": [
+      {
+        "format": "ND",
+        "name": "z",
+        "shape": [
+          100
+        ],
+        "type": "float16"
+      }
+    ]
+  }
+]
